@@ -1,0 +1,13 @@
+C:\Users\saonaluz\Desktop\Padawan\C#\Projeto Final- Calculadora\CalcAgoraVai2\CalcAgoraVai2\bin\Debug\netcoreapp3.1\CalcAgoraVai2.exe
+C:\Users\saonaluz\Desktop\Padawan\C#\Projeto Final- Calculadora\CalcAgoraVai2\CalcAgoraVai2\bin\Debug\netcoreapp3.1\CalcAgoraVai2.deps.json
+C:\Users\saonaluz\Desktop\Padawan\C#\Projeto Final- Calculadora\CalcAgoraVai2\CalcAgoraVai2\bin\Debug\netcoreapp3.1\CalcAgoraVai2.runtimeconfig.json
+C:\Users\saonaluz\Desktop\Padawan\C#\Projeto Final- Calculadora\CalcAgoraVai2\CalcAgoraVai2\bin\Debug\netcoreapp3.1\CalcAgoraVai2.runtimeconfig.dev.json
+C:\Users\saonaluz\Desktop\Padawan\C#\Projeto Final- Calculadora\CalcAgoraVai2\CalcAgoraVai2\bin\Debug\netcoreapp3.1\CalcAgoraVai2.dll
+C:\Users\saonaluz\Desktop\Padawan\C#\Projeto Final- Calculadora\CalcAgoraVai2\CalcAgoraVai2\bin\Debug\netcoreapp3.1\CalcAgoraVai2.pdb
+C:\Users\saonaluz\Desktop\Padawan\C#\Projeto Final- Calculadora\CalcAgoraVai2\CalcAgoraVai2\obj\Debug\netcoreapp3.1\CalcAgoraVai2.AssemblyInfoInputs.cache
+C:\Users\saonaluz\Desktop\Padawan\C#\Projeto Final- Calculadora\CalcAgoraVai2\CalcAgoraVai2\obj\Debug\netcoreapp3.1\CalcAgoraVai2.AssemblyInfo.cs
+C:\Users\saonaluz\Desktop\Padawan\C#\Projeto Final- Calculadora\CalcAgoraVai2\CalcAgoraVai2\obj\Debug\netcoreapp3.1\CalcAgoraVai2.csproj.CoreCompileInputs.cache
+C:\Users\saonaluz\Desktop\Padawan\C#\Projeto Final- Calculadora\CalcAgoraVai2\CalcAgoraVai2\obj\Debug\netcoreapp3.1\CalcAgoraVai2.dll
+C:\Users\saonaluz\Desktop\Padawan\C#\Projeto Final- Calculadora\CalcAgoraVai2\CalcAgoraVai2\obj\Debug\netcoreapp3.1\CalcAgoraVai2.pdb
+C:\Users\saonaluz\Desktop\Padawan\C#\Projeto Final- Calculadora\CalcAgoraVai2\CalcAgoraVai2\obj\Debug\netcoreapp3.1\CalcAgoraVai2.genruntimeconfig.cache
+C:\Users\saonaluz\Desktop\Padawan\C#\Projeto Final- Calculadora\CalcAgoraVai2\CalcAgoraVai2\obj\Debug\netcoreapp3.1\CalcAgoraVai2.csprojAssemblyReference.cache
